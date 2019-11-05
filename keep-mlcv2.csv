@@ -1,0 +1,81 @@
+features,xaxis,yrs
+data analytics,sourcing & security,6
+data analytics,data profiling,3
+data analytics,data dictionary,5
+data analytics,DB storage,6
+team management,directly manage,4
+team management,team leader,4
+team management,team member,6
+team management,business user,2
+BA/PM/Tech/Cons,BA,10
+BA/PM/Tech/Cons,PM,8
+BA/PM/Tech/Cons,Dev,5
+BA/PM/Tech/Cons,Consulting,4
+BA/PM/Tech/Cons,Trader,1
+BA/PM/Tech/Cons,Trainer,1
+BA/PM skills,Project management,8
+BA/PM skills,Business Analysis,12
+BA/PM skills,Program management,2
+BA/PM skills,Agile,8
+BA/PM skills,RAD,5
+BA/PM skills,Software design,6
+BA/PM skills,requirements analysis,12
+BA/PM skills,fucntional specification,12
+BA/PM skills,project steering committee,3
+BA/PM skills,workshops,10
+BA/PM skills,"BRD, FRS, JIRA, other documentation",12
+BA/PM skills,legacy system migration,1
+BA/PM skills,stakeholder management,8
+fin domain knowledge,Front Office,8
+fin domain knowledge,Middle Office,4
+fin domain knowledge,Ops,1
+fin domain knowledge,Risk,5
+fin domain knowledge,Product control,1
+fin domain knowledge,Algo trading,2
+fin domain knowledge,Regulatory,3
+asset classes,Commod,2
+asset classes,EQD,6
+asset classes,MM,2
+asset classes,IRD,4
+asset classes,FX,2
+AI ML skills,Supervised,24
+AI ML skills,Unsupervised,24
+AI ML skills,NLP,12
+AI ML skills,Neural_Nets,12
+AI ML skills,Anomaly_detection,11
+AI ML skills,Clustering,9
+AI ML skills,Clasificaton,12
+AI ML skills,Regression,12
+AI ML skills,Python,48
+AI ML skills,Spacy,12
+AI ML skills,NER,12
+AI ML skills,LSTM,4
+AI ML skills,Word2Vec,12
+AI ML skills,Prodigy,9
+AI ML skills,Chatbot,12
+Other IT skills,MS Excel,15
+Other IT skills,VBA Macros,15
+Other IT skills,C++,4
+Other IT skills,SQL,15
+Other IT skills,Python,4
+Other IT skills,Exchange web services,1
+Other IT skills,JIRA,15
+Other IT skills,Sharepoint,10
+Other IT skills,Confluence,10
+Other IT skills,Bloomberg terminal,7
+Other IT skills,Reuters Eikon,4
+Other IT skills,Trading Technologies,2
+Other IT skills,TT ADL,1
+Other IT skills,MS Projects,10
+Other IT skills,Microstrategy,1
+Other IT skills,Informatica ETL,1
+Other IT skills,Openlink Endur,1
+Infra & DB,Mongo DB,2
+Infra & DB,Hadoop,3
+Infra & DB,Spark,1
+Infra & DB,Dockers,1
+Infra & DB,Kafka,1
+Infra & DB,AWS,1
+Infra & DB,Openshift,1
+Infra & DB,MS Access,2
+Infra & DB,Teradata,2
