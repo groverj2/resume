@@ -1,0 +1,13 @@
+This is just a small data collection and charting project.
+I define my years of experience in different zones of my career
+
+1. skills in finance or machine learning
+2. Roles I played in different jobs over the years
+3. IT skills and AI ML skills 
+4. experience in various business functions of an investment bank IT division
+5. Assset classes that I have experience in
+6. Count of years of my team management experience 
+
+I plot various types of charts using various libraries like matplotlib, pandas, wordcloud etc.
+
+This is part of the bigger project I envision to be completed in future.
